@@ -2,7 +2,7 @@
 Project name: CarParking
 
 5Ws
-Who? Everyone who drives a car
+Who? Drivers who often use shopping mall's parking lot
 Why? Check the availability of parking lot
 When? In the end of the semester
 What? Application
