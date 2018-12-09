@@ -9,12 +9,12 @@ What? Application
 How?Python, OOP
 
 Overview:
-CarParking will help people to use shopping mall parking lot without human intervention. The Application must satisfy the following needs: the total number of cars inside the parking lot must be monitored so that at any time it can be queried,if there are no parking spaces available, the entry barriers will not open and a message will be shown explaining that the parking lot is full, there must not be more than N cars in the parking lot at the same time.
+CarParking will help people to use parking lot without human intervention. The Application must satisfy the following needs: the total number of cars inside the parking lot must be monitored so that at any time it can be queried,if there are no parking spaces available, the entry barriers will not open and a message will be shown explaining that the parking lot is full, there must not be more than 10 cars in the parking lot at the same time.
 
 Target Users:
-Who? - Drivers
+Who? - Drivers who use parking lot
 What? – To see if there is available parking space or not
-When? - Whenever they are going to park their car in a mall’s parking lot
+When? - Whenever they are going to park their car in a parking lot
 How? - Download the application and use it
 
 User Problems Solved:
